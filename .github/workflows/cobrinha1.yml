@@ -1,43 +1,3 @@
-Skip to content
-Navigation Menu
-rafaballerini
-rafaballerini
-
-Type / to search
-Code
-Issues
-14
-Pull requests
-20
-Actions
-Projects
-Security
-Insights
-Files
-Go to file
-t
-.github/workflows
-cobrinha.yml
-README.md
-rafaballerini/.github/workflows
-/cobrinha.yml
-rafaballerini
-rafaballerini
-Update cobrinha.yml
-d2470b3
- · 
-4 years ago
-
-Code
-
-Blame
-26 lines (22 loc) · 589 Bytes
-Older
-Newer
-rafaballerini
-4 years ago
-
-Create cobrinha.yml
 name: Generate Datas
 
 on:
@@ -64,4 +24,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
-Blaming rafaballerini/.github/workflows/cobrinha.yml at main · rafaballerini/rafaballerini
