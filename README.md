@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUÁRIO&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicolaspadovam&show_icons=true&theme=dracula)
 
 
 - 🔭 I’m currently working on ...
