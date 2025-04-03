@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Amo ouvir música!
 
 
-<a href="https://github.com/nicoaspadovam">
+<a href="https://github.com/nicolaspadovam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolaspadovam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspadovam&layout=compact&langs_count=16&theme=dracula"/>
 </a>
