@@ -1,6 +1,6 @@
 ## Seja Bem Vindo(a) 👋
 
-- 🔭 Atualmente no 2 Semestre Sistemas da Informação - FIAP
+- 🔭 Atualmente no 3 Semestre Sistemas da Informação - FIAP
 - 🌱 Estudando Java
 - 🚀 Apaixonado por tecnologia e inovação 
 - ⚡ Fun fact: Amo ouvir música!
