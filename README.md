@@ -15,14 +15,8 @@
   <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-</div>
 
-![Snake animation](https://github.com/nicolaspadovam/nicolaspadovam/blob/output/github-contribution-grid-snake.svg)
-
-
-<div>
-  
+    
 <a href="https://instagram.com/nicolaspadovam" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
